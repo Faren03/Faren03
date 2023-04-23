@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Faren03
 - 👀 I’m interested in Computer and Cognitive Science 
-- 🌱 I’m currently learning Data Structure and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is at FarenThompson03@gmail.com
 
